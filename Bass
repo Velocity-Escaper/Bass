@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en"> 
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width" initial-scale="1.0" user-scalable="no">
+<meta http-equiv='X-UA-compatible' content='IE=edge, chrome=1'>
+   
+<title>Bass</title>
+</head>
+
+<body>
+    <div class="picture">
+        <img src="https://scontent.fcai21-4.fna.fbcdn.net/v/t39.30808-6/243936104_233646148780256_4290904300173655293_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=f6WCL4wMTmcAX97nUbS&_nc_ht=scontent.fcai21-4.fna&oh=00_AT8_gyWqHebyJtJ2TZguaYDNHT8OhJHs-sbIxFmsApD0ig&oe=6263AF96" alt="cover-photo">
+        
+
+    </div>
+
+    <div class="navbar">
+        <div class="nav-links">
+            <li><a href="#" class="A1"target="_self"></a></li>
+
+
+        </div>
+    </div>
+
+    <div class="logo">
+        <img src="https://scontent.fcai21-3.fna.fbcdn.net/v/t1.6435-9/84003367_1173756199484575_3275356748717752320_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=e3f864&_nc_ohc=f7zlgFs8pb0AX8G8cRP&_nc_ht=scontent.fcai21-3.fna&oh=00_AT9G6cInijHuCI_ZkruKVuxt-L133ASAIzwG-c6Dv9GyKw&oe=6283019B" alt="logo">
+
+    </div>
+
+    <div class="soundcloud">
+            <a href="https://soundcloud.com/bassem-helmi?fbclid=IwAR3dNjQsu7SAzxBDInq559tc3mhi-lFmZf6Ss3yqcHUcTPyNPKsCdZYyxqo" alt="Bass-on-Soundcloud" target="_self"><img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5tYLD_FPiW9xZYX6TSStWVfSswiUgOO3Mag&usqp=CAU" alt="soundcloud"></a>
+
+        </div>
+    </div>
+
+</body>
+
+<style>
+    * {
+        margin:0;
+        padding: 0;
+        box-sizing: border-box;
+        scroll-behavior: auto;
+        list-style: none;
+        text-decoration: none;
+        outline: none;
+        user-select: none;
+        background-color: black;
+    }
+
+    .picture img {
+        size: cover;
+        position:absolute;
+        top: 30px;
+        left: 50%;
+        width: 40%;
+
+    }
+
+    .logo img {
+        position: absolute;
+        top: 30px;
+        right: 50%;
+        width: 600px;
+    }
+
+    .soundcloud img {
+        position:absolute;
+        top: 300px;
+        right: 66%;
+        width: 145px;
+        border-radius: 50%;
+        border: 1px solid aqua;
+
+
+    }
+
+    .soundcloud img:hover {
+        transition: 0.5s;
+        transform: scale(70%);
+        border: 15px solid aqua;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
